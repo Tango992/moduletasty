@@ -15,7 +15,7 @@ go get -u github.com/Tango992/moduletasty
 
 ## Usage
 
-Use the `moduletasty.Start()` method to use the module.
+Use `moduletasty.Start()` to use the module.
 
 ```go
 import "github.com/Tango992/moduletasty"
