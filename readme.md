@@ -25,7 +25,7 @@ func main() {
 }
 ```
 
-You will be prompted to enter a database connection "currently for private usage"
+You will be prompted to enter a database connection (currently for private usage)
 
 ```console
 Enter connection with the following format:
